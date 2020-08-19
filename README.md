@@ -1,6 +1,5 @@
-[![Github](https://img.shields.io/badge/Github-BOTOL--MEHEDI-green?style=flat-square&logo=github)](https://github.com/botolmehedi)
-[![IYoutube](https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube)](https://www.youtube.com/mastertrick1)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger)](https://www.facebook.com/groups/231747098048450)
+[![Github](https://img.shields.io/badge/Github-Box95--Crew-green?style=flat-square&logo=github)](https://github.com/Box95-Crew)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger)](https://www.facebook.com/Box95.crew.95)
 
 <h1 align="center">BSIX v1.0</h1>
 <p align="center">
@@ -37,27 +36,8 @@ $ python2 bsix.py
 
 * Note:- Don't try to edit or modify this tool.
 
-## 馃敆 ***Check this***
-
-### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-https://www.mastertrick.design
 
 ## 馃懃 ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-https://t.me/mastertrick2
-
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
 
 ### My GitHub ID link:
 https://www.github.com/Box95-Crew
