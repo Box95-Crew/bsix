@@ -7,14 +7,14 @@
       A new facebook account cracker tool for termux users
 </p>
 
-## 馃攳 ***About BSIX***:
+## 馃攳 ***About Box95***:
 
 BSIX is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## All commands for install this tool
 $ pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install pip && pkg install pip2
 <br/>
-$ git clone https://github.com/botolmehedi/bsix
+$ git clone https://github.com/Box95-Crew/bsix
 <br/>
 $ pip2 install requests
 <br/>
@@ -60,7 +60,7 @@ https://www.facebook.com/TeamVVirus
 https://www.instagram.com/MehtanOfficial
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/Box95-Crew
 
 ### 馃摙 Warning
 
